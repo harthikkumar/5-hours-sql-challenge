@@ -10,7 +10,7 @@
 - What is SQL? (Quick 5-min read)
 - `SELECT`, `FROM`
 - `WHERE` clause (filters)
-- Comparison operators: `=`, `!=`, `<`, `>`, `LIKE`, `IN`
+- Comparison operators: `=`, `!=`, `<`, `>`, `LIKE`, `IN` 
 - `ORDER BY`, `LIMIT`
 
 ### 🔨 Practice
