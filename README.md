@@ -2,7 +2,6 @@
 
 **Goal:** Get practical skills fast — enough to analyze real data, join tables, and write useful queries.
 
----
 
 ## ⏰ Hour 1: SQL Foundations (`SELECT` + `WHERE`)
 
@@ -18,7 +17,6 @@
 
 - SQL Bolt Lessons 1–3: [https://sqlbolt.com](https://sqlbolt.com)
 
----
 
 ## ⏰ Hour 2: Aggregations (`GROUP BY`, `COUNT`, `SUM`)
 
@@ -36,7 +34,6 @@
 
 - SQL Bolt Lessons 4–6: [https://sqlbolt.com](https://sqlbolt.com)
 
----
 
 ## ⏰ Hour 3: Joins (Combining Tables)
 
@@ -51,7 +48,6 @@
 
 - SQL Bolt Lessons 7–9: [https://sqlbolt.com](https://sqlbolt.com)
 
----
 
 ## ⏰ Hour 4: Data Manipulation (`INSERT`, `UPDATE`, `DELETE`)
 
@@ -67,7 +63,6 @@
 - Insert fake data, update a row, delete a row
 - Use [https://sqliteonline.com](https://sqliteonline.com) to experiment live
 
----
 
 ## ⏰ Hour 5: Project + Real-World Practice
 
@@ -86,7 +81,6 @@ Use a dataset from [Kaggle](https://www.kaggle.com) or [Mode SQL Tutorial](https
 - [LeetCode SQL Easy Problems](https://leetcode.com/problemset/database/)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
 
----
 
 ## ✅ Outcome
 
